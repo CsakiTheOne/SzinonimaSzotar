@@ -1,194 +1,194 @@
 # C betűs szó
 
-afromagyar
-afropalóc
-apacsok
-bagarol
-bakelit
-bakugán
-bal kézre gyúró
-balsors
-bantuk
-beduin
-bennszülött
-bibozó
-bivalyszőke
-bodzaszedő
-bokorugró
-boxos
-brazil
-brazil gépsor
-brikettfejű
-britykó
-buckalakó
-butaszappan
-börtöncentrikus állampolgár
-c
-c-type
-cappuccino
-cellux
-cement
-cerbona
-cibbank
-cibbon
-cibbány
-cibeti
-cibány
-cicero
-cickány
-cig
-cigarelló
-cigi
-cigling
-cigszkozat
-cigó
-cikória
-cimbalom
-cindián
-cintányér
-cirkónium (Zr a periódusos rendszerben)
-citrom
-citráng
-cián
-cornetto
-csoki
-cékla
-dakota
-dark úriember
-digó
-dingi
-drapp
-durandai
-dzsibuti
-dzsigoló
-dzsipó
-dzsungelkaratés
-dzsámbá
-dádé
-dögevő
-energiahordozó
-entitás
-etnikum
-fekete sereg
-fekete szellem
-feketeretek
-fokozottan pigmentált polgártárs
-fémérzékeny
-füsti fecske
-gall kakas
-gangeszi székely
-genetikailag szoláriumozott
-gibbon
-gmerci
-gypsy
-hegylakó
-hiperpigmentált
-hiéna
-hobbinger
-hungarobrazil
-hátrányos helyzetű
-illatosék
-indiai variáns
-indián
-indoeuropid
-indomagyar
-indoszékely
-jafar
-kafferbivaly
-kakaós képű
-kannibál
-keselyű
-kisebbségi
-kobold
-kockamedúza
-kokeró
-kokesz
-kokszos
-kommancséró
-kormorán
-kormoslábú
-korom kapitány
-korvald
-koszlidérc
-kábelbarát
-kányabőrű
-kárpáti brazil
-kátrány golyó
-kátrányos helyzetű
-kétes egzisztenciájú állampolgár
-kétszer sült
-küszöbmajom
-loplandi
-macskura
-magneto
-magnum
-magyarország rejtett erőforrásai
-mezei tücsök
-mohikán
-mokka
-mourighno
-mozdonyszőke
-muzsikus
-mágnes szemű fiúk
-napbarnított felebarát
-navajonkik
-nem idénbarnult
-nem napon barnult
-nemzetiségi
-nesquik ízű barát
-nibba
-norvég bálnavadász
-nyeles dózer kezelő
-ork
-penge
-perui
-pirított magyar
-poxos
-prímás
-próbangger
-puebló
-puerto ricoi
-pulya
-putri
-putripredátor
-rakló
-recycling matador
-rejtett erőforrás
-rezesbanda
-roma
-rozsdásrákok
-rudi
-rumaroma
-rumungró
-réti navaho
-rétinger
-rétinigger
-rézpajzsos cigimli
-rómaiak
-schwarzkopf
-snikers
-suvickos
-szinkronizált olasz
-széntabletta
-színesbőrű
-sárvérű
-sötét
-sült réce
-tasmán ördög
-teknővájó
-teljes-kiőrlésű
-type-c
-vadkacsa
-vadmagyar
-vakvarjú
-varjúfióka
-vasangyal
-vasbetondísz
-vonós
-vödörfonó
-árnyékember
-ércmanó
-új magyar
-üstház volt a járókája
-üszök
-ősmigráns
+- afromagyar
+- afropalóc
+- apacsok
+- bagarol
+- bakelit
+- bakugán
+- bal kézre gyúró
+- balsors
+- bantuk
+- beduin
+- bennszülött
+- bibozó
+- bivalyszőke
+- bodzaszedő
+- bokorugró
+- boxos
+- brazil
+- brazil gépsor
+- brikettfejű
+- britykó
+- buckalakó
+- butaszappan
+- börtöncentrikus állampolgár
+- c
+- c-type
+- cappuccino
+- cellux
+- cement
+- cerbona
+- cibbank
+- cibbon
+- cibbány
+- cibeti
+- cibány
+- cicero
+- cickány
+- cig
+- cigarelló
+- cigi
+- cigling
+- cigszkozat
+- cigó
+- cikória
+- cimbalom
+- cindián
+- cintányér
+- cirkónium (Zr a periódusos rendszerben)
+- citrom
+- citráng
+- cián
+- cornetto
+- csoki
+- cékla
+- dakota
+- dark úriember
+- digó
+- dingi
+- drapp
+- durandai
+- dzsibuti
+- dzsigoló
+- dzsipó
+- dzsungelkaratés
+- dzsámbá
+- dádé
+- dögevő
+- energiahordozó
+- entitás
+- etnikum
+- fekete sereg
+- fekete szellem
+- feketeretek
+- fokozottan pigmentált polgártárs
+- fémérzékeny
+- füsti fecske
+- gall kakas
+- gangeszi székely
+- genetikailag szoláriumozott
+- gibbon
+- gmerci
+- gypsy
+- hegylakó
+- hiperpigmentált
+- hiéna
+- hobbinger
+- hungarobrazil
+- hátrányos helyzetű
+- illatosék
+- indiai variáns
+- indián
+- indoeuropid
+- indomagyar
+- indoszékely
+- jafar
+- kafferbivaly
+- kakaós képű
+- kannibál
+- keselyű
+- kisebbségi
+- kobold
+- kockamedúza
+- kokeró
+- kokesz
+- kokszos
+- kommancséró
+- kormorán
+- kormoslábú
+- korom kapitány
+- korvald
+- koszlidérc
+- kábelbarát
+- kányabőrű
+- kárpáti brazil
+- kátrány golyó
+- kátrányos helyzetű
+- kétes egzisztenciájú állampolgár
+- kétszer sült
+- küszöbmajom
+- loplandi
+- macskura
+- magneto
+- magnum
+- magyarország rejtett erőforrásai
+- mezei tücsök
+- mohikán
+- mokka
+- mourighno
+- mozdonyszőke
+- muzsikus
+- mágnes szemű fiúk
+- napbarnított felebarát
+- navajonkik
+- nem idénbarnult
+- nem napon barnult
+- nemzetiségi
+- nesquik ízű barát
+- nibba
+- norvég bálnavadász
+- nyeles dózer kezelő
+- ork
+- penge
+- perui
+- pirított magyar
+- poxos
+- prímás
+- próbangger
+- puebló
+- puerto ricoi
+- pulya
+- putri
+- putripredátor
+- rakló
+- recycling matador
+- rejtett erőforrás
+- rezesbanda
+- roma
+- rozsdásrákok
+- rudi
+- rumaroma
+- rumungró
+- réti navaho
+- rétinger
+- rétinigger
+- rézpajzsos cigimli
+- rómaiak
+- schwarzkopf
+- snikers
+- suvickos
+- szinkronizált olasz
+- széntabletta
+- színesbőrű
+- sárvérű
+- sötét
+- sült réce
+- tasmán ördög
+- teknővájó
+- teljes-kiőrlésű
+- type-c
+- vadkacsa
+- vadmagyar
+- vakvarjú
+- varjúfióka
+- vasangyal
+- vasbetondísz
+- vonós
+- vödörfonó
+- árnyékember
+- ércmanó
+- új magyar
+- üstház volt a járókája
+- üszök
+- ősmigráns
