@@ -1,5 +1,16 @@
 # C betűs szó
 
+## Települések, amik együtt használhatók az alábbi kifejezésekkel
+
+Például: Nyírlugosi bakugan
+
+- Berhida
+- Csór
+- Miskolc
+- Nyírlugas
+
+## Szinonimák
+
 - afromagyar
 - afropalóc
 - apacsok
