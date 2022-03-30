@@ -104,6 +104,7 @@ Például: Nyírlugosi bakugan
 - indoeuropid
 - indomagyar
 - indoszékely
+- integrált
 - jafar
 - kafferbivaly
 - kakaós képű
