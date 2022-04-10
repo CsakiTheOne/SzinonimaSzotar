@@ -32,12 +32,15 @@ Például: Nyírlugosi bakugan
 - brikettfejű
 - britykó
 - buckalakó
+- bundzsi
 - butaszappan
 - börtöncentrikus állampolgár
 - c
 - c-type
+- c vitamin
 - cappuccino
 - cellux
+- celofán
 - cement
 - cerbona
 - cibbank
@@ -63,6 +66,7 @@ Például: Nyírlugosi bakugan
 - cián
 - cornetto
 - csoki
+- csokisüti
 - cékla
 - dakota
 - dark úriember
@@ -125,12 +129,14 @@ Például: Nyírlugosi bakugan
 - kábelbarát
 - kányabőrű
 - kárpáti brazil
+- kátrány alapanyag
 - kátrány golyó
 - kátrányos helyzetű
 - kétes egzisztenciájú állampolgár
 - kétszer sült
 - küszöbmajom
 - loplandi
+- Los Aluljárosz banditái
 - macskura
 - magneto
 - magnum
@@ -193,7 +199,8 @@ Például: Nyírlugosi bakugan
 - vadkacsa
 - vadmagyar
 - vakvarjú
-- varjúfióka
+- varjú fióka
+- varjú hámozó
 - vasangyal
 - vasbetondísz
 - vonós
