@@ -32,12 +32,13 @@ Például: Nyírlugosi bakugan
 - brikettfejű
 - britykó
 - buckalakó
+- buncsi
 - bundzsi
 - butaszappan
 - börtöncentrikus állampolgár
 - c
 - c-type
-- c vitamin
+- c-vitamin
 - cappuccino
 - cellux
 - celofán
@@ -60,7 +61,7 @@ Például: Nyírlugosi bakugan
 - cimbalom
 - cindián
 - cintányér
-- cirkónium (Zr a periódusos rendszerben)
+- cirkónium (zr a periódusos rendszerben)
 - citrom
 - citráng
 - cián
@@ -94,12 +95,14 @@ Például: Nyírlugosi bakugan
 - gangeszi székely
 - genetikailag szoláriumozott
 - gibbon
+- giepetto
 - gmerci
 - gypsy
 - hegylakó
 - hiperpigmentált
 - hiéna
-- hobbinger
+- hobbin*ger
+- homo herbalensis
 - hungarobrazil
 - hátrányos helyzetű
 - illatosék
@@ -136,7 +139,7 @@ Például: Nyírlugosi bakugan
 - kétszer sült
 - küszöbmajom
 - loplandi
-- Los Aluljárosz banditái
+- los aluljárosz banditái
 - macskura
 - magneto
 - magnum
@@ -207,6 +210,7 @@ Például: Nyírlugosi bakugan
 - vödörfonó
 - árnyékember
 - ércmanó
+- önálló kultúrával nem rendelkező társadalmilag elnyomott etnoszociális réteg
 - új magyar
 - üstház volt a járókája
 - üszök
