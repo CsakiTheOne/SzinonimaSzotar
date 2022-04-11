@@ -125,7 +125,8 @@ Például: Nyírlugosi bakugan
 - kokszos
 - kommancséró
 - kormorán
-- kormoslábú
+- kormos képű
+- kormos lábú
 - korom kapitány
 - korvald
 - koszlidérc
@@ -190,6 +191,7 @@ Például: Nyírlugosi bakugan
 - snikers
 - suvickos
 - szinkronizált olasz
+- szurokember
 - széntabletta
 - színesbőrű
 - sárvérű
