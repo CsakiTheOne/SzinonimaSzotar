@@ -5,6 +5,7 @@ Egy különleges szinonima szótár, ahol egy dolgot akár 100 módon is mondhat
 ## Tartalomjegyzék
 
 - [C betűs szó](./words/c.md)
+- [Hálózat tanárunk angol nyelvtudása](./words/rosta-english.md)
 
 ## Közreműködés
 
