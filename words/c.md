@@ -14,6 +14,7 @@ Például: Nyírlugosi bakugan
 - afromagyar
 - afropalóc
 - apacsok
+- asszonyverő
 - bagarol
 - bakelit
 - bakugán
