@@ -115,6 +115,7 @@ Például: Nyírlugosi bakugan
 - integrált
 - jafar
 - kafferbivaly
+- kakaócsempész
 - kakaós képű
 - kannibál
 - keselyű
