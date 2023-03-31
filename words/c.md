@@ -1,5 +1,8 @@
 # C betűs szó
 
+- cibbony
+- zig
+
 - afromagyar
 - afropalóc
 - apacsok
