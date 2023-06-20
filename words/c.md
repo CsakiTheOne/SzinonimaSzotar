@@ -1,8 +1,5 @@
 # C betűs szó
 
-- cibbony
-- zig
-
 - afromagyar
 - afropalóc
 - apacsok
@@ -39,6 +36,7 @@
 - cerbona
 - cibbank
 - cibbon
+- cibbony
 - cibbány
 - cibeti
 - cibány
@@ -204,6 +202,7 @@
 - vasbetondísz
 - vonós
 - vödörfonó
+- zig
 - árnyékember
 - ércmanó
 - önálló kultúrával nem rendelkező társadalmilag elnyomott etnoszociális réteg
