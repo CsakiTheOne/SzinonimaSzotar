@@ -46,6 +46,7 @@
 - cicero
 - cickány
 - cig
+- cigus
 - cigarelló
 - cigi
 - cigling
@@ -212,3 +213,126 @@
 - vödörfonó
 - vonós
 - zig
+- Tyson
+- hegyiolasz
+- oláh
+- gazsi
+
+## Még nem szortírozott, gyakori kérdéseken találtak
+
+- akit a mozdony füstje megcsapott
+- anyaméhben barnult
+- bagarol
+- bantu
+- barát entitás
+- barbár
+- becsületes aljanép
+- bivalyszőke
+- bodzaszedő
+- bokszos
+- bokszos
+- brazil
+- buckalakó
+- buckalakó
+- büdösbőrű
+- c-típusú állampolgár
+- cigó
+- cigus
+- cipi
+- családi okok miatt mosdatlan
+- családi vállalkozásban garázdálkodó
+- csipa
+- csitány
+- dakesz
+- dakota
+- dakota
+- dögevő
+- drapp
+- drapp
+- dzsigoló
+- dzsipó
+- dzsipó
+- dzsipó
+- dzsipszi
+- dzsipszi
+- dzsungelharcos
+- EPK (erősen pigmentált kisebbség)
+- erősen pigmentált
+- etnikum
+- familiárisan hiperpigmentált
+- feketelábú
+- feketeretek
+- feketerigó
+- füstifecske
+- gangeszparti
+- genetikailag szoláriumozott
+- gipsy
+- győzike
+- halmozottan hátrányos kisállatetnyésztő
+- hegyiolasz
+- hiperpigmentált
+- importindián
+- importnéger
+- indiai turista
+- indián
+- indio-európai
+- indomagyar
+- irokéz
+- kávéfeka
+- kék vérű
+- keoma
+- kétszersült
+- kisebbségi
+- koheró
+- kokeró
+- kokeró
+- kokez
+- kokszos
+- komancs
+- kormos
+- korvald
+- láma
+- légy
+- loplandi
+- maugli
+- meszkaléró
+- mokka
+- mozdonyszőke
+- mozgó céltábla
+- negro
+- nem a napon barnult
+- nem idén barnult
+- norvég
+- nyóckeres
+- oláh
+- ork
+- pigmenttúltengéses minoritás
+- piréz
+- piszkos
+- prala
+- próbanéger
+- putriszökevény
+- retek
+- réti n*gger
+- rézbőrű
+- rikárdó
+- roma
+- római
+- román
+- roméró
+- sárgalábú
+- spanyol
+- sültréce
+- svéd
+- személyi tulajdonokat bizonytalan határideig kölcsönvevő
+- széntabletta
+- tesó
+- testvér
+- tesvír
+- tücsök
+- vádlott
+- vályogvető
+- vándorpatkány
+- varjú
+- vérfertőző európai néger
+- viking

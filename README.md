@@ -6,7 +6,7 @@ Egy különleges szinonima szótár, ahol egy dolgot akár 100 módon is mondhat
 
 ## Statisztikák
 
-212 szó összesen
+213 szó összesen (gyakori kérdésekről származókat még nem számolva)
 
 ## Közreműködés
 
@@ -17,7 +17,8 @@ Egy különleges szinonima szótár, ahol egy dolgot akár 100 módon is mondhat
 Eddigi közreműködők:
 
 - `még nincs engedélyem a neve megosztásához` (legtöbb szó a [C betűs szó](./words/c.md)nál neki köszönhető)
-- [NerdHub klipp TikTok-ról](https://www.tiktok.com/@wild_ronin05/video/7084339975663209734?_r=1&_t=8RNWsxYnwgw&social_sharing=v3)
+- [NerdHub](https://www.tiktok.com/@youtubemagyarorszag/video/7092849418042346758?lang=en)
+- [Gyakorikérdések.hu](https://www.gyakorikerdesek.hu/kultura-es-kozosseg__nyelvek__6216576-segitene-valaki-osszegyujteni-az-osszes-letezo-szinonimat-szlenget-a-cigany-szo)
 - [CsakiTheOne](https://github.com/CsakiTheOne/) és családja
 
 > Az internet nagy és kusza. Természetesen próbálok megjelölni minden forrást, de nem tudom ki találta ki a szavakat. Szóval ha máshonnan ismered a szótár egy részét, az teljesen lehetséges. Nem állt szándékomban "lopni" senkitől sehonnan.
