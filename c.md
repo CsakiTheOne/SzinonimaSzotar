@@ -3,6 +3,7 @@
 - afromagyar
 - afropalóc
 - apacsok
+- árnyékember
 - asszonyverő
 - bagarol
 - bakelit
@@ -16,6 +17,7 @@
 - bivalyszőke
 - bodzaszedő
 - bokorugró
+- börtöncentrikus állampolgár
 - boxos
 - brazil
 - brazil gépsor
@@ -25,62 +27,63 @@
 - buncsi
 - bundzsi
 - butaszappan
-- börtöncentrikus állampolgár
 - c
 - c-type
 - c-vitamin
 - cappuccino
+- cékla
 - cellux
 - celofán
 - cement
 - cerbona
+- cián
+- cibány
 - cibbank
+- cibbány
 - cibbon
 - cibbony
-- cibbány
 - cibeti
-- cibány
 - cicero
 - cickány
 - cig
 - cigarelló
 - cigi
 - cigling
-- cigszkozat
 - cigó
+- cigszkozat
 - cikória
 - cimbalom
 - cindián
 - cintányér
 - cirkónium (zr a periódusos rendszerben)
-- citrom
 - citráng
-- cián
+- citrom
 - cornetto
+- csitkány (motkány)
 - csoki
 - csokisüti
-- cékla
+- dádé
 - dakota
 - dark úriember
 - digó
 - dingi
+- dögevő
 - drapp
 - durandai
+- dzsámbá
 - dzsibuti
 - dzsigoló
 - dzsipó
 - dzsungelkaratés
-- dzsámbá
-- dádé
-- dögevő
 - energiahordozó
 - entitás
+- ércmanó
 - etnikum
 - fekete sereg
 - fekete szellem
 - feketeretek
-- fokozottan pigmentált polgártárs
 - fémérzékeny
+- fokozottan pigmentált polgártárs
 - füsti fecske
 - gall kakas
 - gangeszi székely
@@ -89,13 +92,13 @@
 - giepetto
 - gmerci
 - gypsy
+- hátrányos helyzetű
 - hegylakó
-- hiperpigmentált
 - hiéna
+- hiperpigmentált
 - hobbin*ger
 - homo herbalensis
 - hungarobrazil
-- hátrányos helyzetű
 - illatosék
 - indiai variáns
 - indián
@@ -104,11 +107,19 @@
 - indoszékely
 - integrált
 - jafar
+- kábelbarát
 - kafferbivaly
 - kakaócsempész
 - kakaós képű
 - kannibál
+- kányabőrű
+- kárpáti brazil
+- kátrány alapanyag
+- kátrány golyó
+- kátrányos helyzetű
 - keselyű
+- kétes egzisztenciájú állampolgár
+- kétszer sült
 - kisebbségi
 - kobold
 - kockamedúza
@@ -122,18 +133,12 @@
 - korom kapitány
 - korvald
 - koszlidérc
-- kábelbarát
-- kányabőrű
-- kárpáti brazil
-- kátrány alapanyag
-- kátrány golyó
-- kátrányos helyzetű
-- kétes egzisztenciájú állampolgár
-- kétszer sült
 - küszöbmajom
+- kutya fejű
 - loplandi
 - los aluljárosz banditái
 - macskura
+- mágnes szemű fiúk
 - magneto
 - magnum
 - magyarország rejtett erőforrásai
@@ -143,7 +148,6 @@
 - mourighno
 - mozdonyszőke
 - muzsikus
-- mágnes szemű fiúk
 - napbarnított felebarát
 - navajonkik
 - nem idénbarnult
@@ -153,7 +157,9 @@
 - nibba
 - norvég bálnavadász
 - nyeles dózer kezelő
+- önálló kultúrával nem rendelkező társadalmilag elnyomott etnoszociális réteg
 - ork
+- ősmigráns
 - penge
 - perui
 - pirított magyar
@@ -168,31 +174,34 @@
 - rakló
 - recycling matador
 - rejtett erőforrás
+- réti navaho
+- rétinger
+- rétinigger
 - rezesbanda
+- rézpajzsos cigimli
 - roma
+- rómaiak
 - rozsdásrákok
 - rudi
 - rumaroma
 - rumungró
-- réti navaho
-- rétinger
-- rétinigger
-- rézpajzsos cigimli
-- rómaiak
+- sárvérű
 - schwarzkopf
 - snikers
-- suvickos
-- szinkronizált olasz
-- szurokember
-- széntabletta
-- színesbőrű
-- sárvérű
 - sötét
 - sült réce
+- suvickos
+- széntabletta
+- színesbőrű
+- szinkronizált olasz
+- szurokember
 - tasmán ördög
 - teknővájó
 - teljes-kiőrlésű
 - type-c
+- új magyar
+- üstház volt a járókája
+- üszök
 - vadkacsa
 - vadmagyar
 - vakvarjú
@@ -200,15 +209,6 @@
 - varjú hámozó
 - vasangyal
 - vasbetondísz
-- vonós
 - vödörfonó
+- vonós
 - zig
-- árnyékember
-- ércmanó
-- önálló kultúrával nem rendelkező társadalmilag elnyomott etnoszociális réteg
-- új magyar
-- üstház volt a járókája
-- üszök
-- ősmigráns
-- kutya fejű
-- csitkány (motkány)
