@@ -2,6 +2,8 @@
 
 - afromagyar
 - afropalóc
+- akit a mozdony füstje megcsapott
+- anyaméhben barnult
 - apacsok
 - árnyékember
 - asszonyverő
@@ -10,13 +12,18 @@
 - bakugán
 - bal kézre gyúró
 - balsors
-- bantuk
+- bantu
+- barát entitás
+- barbár
+- becsületes aljanép
 - beduin
 - bennszülött
 - bibozó
 - bivalyszőke
+- bivalyszőke
 - bodzaszedő
 - bokorugró
+- bokszos
 - börtöncentrikus állampolgár
 - boxos
 - brazil
@@ -24,10 +31,12 @@
 - brikettfejű
 - britykó
 - buckalakó
+- büdösbőrű
 - buncsi
 - bundzsi
 - butaszappan
 - c
+- c-típusú állampolgár
 - c-type
 - c-vitamin
 - cappuccino
@@ -46,24 +55,30 @@
 - cicero
 - cickány
 - cig
-- cigus
 - cigarelló
 - cigi
 - cigling
 - cigó
 - cigszkozat
+- cigus
 - cikória
 - cimbalom
 - cindián
 - cintányér
+- cipi
 - cirkónium (zr a periódusos rendszerben)
 - citráng
 - citrom
 - cornetto
+- családi okok miatt mosdatlan
+- családi vállalkozásban garázdálkodó
+- csipa
+- csitány
 - csitkány (motkány)
 - csoki
 - csokisüti
 - dádé
+- dakesz
 - dakota
 - dark úriember
 - digó
@@ -75,25 +90,37 @@
 - dzsibuti
 - dzsigoló
 - dzsipó
+- dzsipszi
+- dzsungelharcos
 - dzsungelkaratés
 - energiahordozó
 - entitás
+- EPK (erősen pigmentált kisebbség)
 - ércmanó
+- erősen pigmentált
 - etnikum
+- familiárisan hiperpigmentált
 - fekete sereg
 - fekete szellem
+- feketelábú
 - feketeretek
+- feketerigó
 - fémérzékeny
 - fokozottan pigmentált polgártárs
 - füsti fecske
 - gall kakas
 - gangeszi székely
+- gangeszparti
+- gazsi
 - genetikailag szoláriumozott
 - gibbon
 - giepetto
 - gmerci
+- győzike
 - gypsy
+- halmozottan hátrányos kisállatetnyésztő
 - hátrányos helyzetű
+- hegyiolasz
 - hegylakó
 - hiéna
 - hiperpigmentált
@@ -101,8 +128,12 @@
 - homo herbalensis
 - hungarobrazil
 - illatosék
+- importindián
+- importnéger
+- indiai turista
 - indiai variáns
 - indián
+- indio-európai
 - indoeuropid
 - indomagyar
 - indoszékely
@@ -118,6 +149,8 @@
 - kátrány alapanyag
 - kátrány golyó
 - kátrányos helyzetű
+- kávéfeka
+- kék vérű
 - keselyű
 - kétes egzisztenciájú állampolgár
 - kétszer sült
@@ -127,8 +160,10 @@
 - kokeró
 - kokesz
 - kokszos
+- kommancs
 - kommancséró
 - kormorán
+- kormos
 - kormos képű
 - kormos lábú
 - korom kapitány
@@ -136,6 +171,8 @@
 - koszlidérc
 - küszöbmajom
 - kutya fejű
+- láma
+- légy
 - loplandi
 - los aluljárosz banditái
 - macskura
@@ -143,55 +180,75 @@
 - magneto
 - magnum
 - magyarország rejtett erőforrásai
+- maugli
 - mezei tücsök
 - mohikán
 - mokka
 - mourighno
 - mozdonyszőke
+- mozgó céltábla
 - muzsikus
 - napbarnított felebarát
 - navajonkik
-- nem idénbarnult
+- negro
+- nem a napon barnult
+- nem idén barnult
 - nem napon barnult
 - nemzetiségi
 - nesquik ízű barát
 - nibba
+- norvég
 - norvég bálnavadász
 - nyeles dózer kezelő
+- nyóckeres
+- oláh
 - önálló kultúrával nem rendelkező társadalmilag elnyomott etnoszociális réteg
 - ork
 - ősmigráns
+- pákó
 - penge
 - perui
+- pigmenttúltengéses minoritás
+- piréz
 - pirított magyar
+- piszkos
 - poxos
 - prímás
-- próbangger
+- próbanéger
 - puebló
 - puerto ricoi
 - pulya
 - putri
 - putripredátor
+- putriszökevény
 - rakló
 - recycling matador
 - rejtett erőforrás
-- réti navaho
-- rétinger
-- rétinigger
+- retek
+- réti n*gger
+- rézbőrű
 - rezesbanda
 - rézpajzsos cigimli
+- rikárdó
 - roma
-- rómaiak
+- római
+- román
+- romeo
+- roméró
 - rozsdásrákok
 - rudi
 - rumaroma
 - rumungró
+- sárgalábú
 - sárvérű
 - schwarzkopf
 - snikers
 - sötét
+- spanyol
 - sült réce
 - suvickos
+- svéd
+- személyi tulajdonokat bizonytalan határideig kölcsönvevő
 - széntabletta
 - színesbőrű
 - szinkronizált olasz
@@ -199,140 +256,28 @@
 - tasmán ördög
 - teknővájó
 - teljes-kiőrlésű
+- tesó
+- testvér
+- tezsvír
+- tücsök
 - type-c
+- tyson
 - új magyar
 - üstház volt a járókája
 - üszök
 - vadkacsa
+- vádlott
 - vadmagyar
 - vakvarjú
+- vályogvető
+- vándorpatkány
+- varjú
 - varjú fióka
 - varjú hámozó
 - vasangyal
 - vasbetondísz
+- vérfertőző európai néger
+- viking
 - vödörfonó
 - vonós
 - zig
-- Tyson
-- hegyiolasz
-- oláh
-- gazsi
-
-## Még nem szortírozott, gyakori kérdéseken találtak
-
-- akit a mozdony füstje megcsapott
-- anyaméhben barnult
-- bagarol
-- bantu
-- barát entitás
-- barbár
-- becsületes aljanép
-- bivalyszőke
-- bodzaszedő
-- bokszos
-- bokszos
-- brazil
-- buckalakó
-- buckalakó
-- büdösbőrű
-- c-típusú állampolgár
-- cigó
-- cigus
-- cipi
-- családi okok miatt mosdatlan
-- családi vállalkozásban garázdálkodó
-- csipa
-- csitány
-- dakesz
-- dakota
-- dakota
-- dögevő
-- drapp
-- drapp
-- dzsigoló
-- dzsipó
-- dzsipó
-- dzsipó
-- dzsipszi
-- dzsipszi
-- dzsungelharcos
-- EPK (erősen pigmentált kisebbség)
-- erősen pigmentált
-- etnikum
-- familiárisan hiperpigmentált
-- feketelábú
-- feketeretek
-- feketerigó
-- füstifecske
-- gangeszparti
-- genetikailag szoláriumozott
-- gipsy
-- győzike
-- halmozottan hátrányos kisállatetnyésztő
-- hegyiolasz
-- hiperpigmentált
-- importindián
-- importnéger
-- indiai turista
-- indián
-- indio-európai
-- indomagyar
-- irokéz
-- kávéfeka
-- kék vérű
-- keoma
-- kétszersült
-- kisebbségi
-- koheró
-- kokeró
-- kokeró
-- kokez
-- kokszos
-- komancs
-- kormos
-- korvald
-- láma
-- légy
-- loplandi
-- maugli
-- meszkaléró
-- mokka
-- mozdonyszőke
-- mozgó céltábla
-- negro
-- nem a napon barnult
-- nem idén barnult
-- norvég
-- nyóckeres
-- oláh
-- ork
-- pigmenttúltengéses minoritás
-- piréz
-- piszkos
-- prala
-- próbanéger
-- putriszökevény
-- retek
-- réti n*gger
-- rézbőrű
-- rikárdó
-- roma
-- római
-- román
-- roméró
-- sárgalábú
-- spanyol
-- sültréce
-- svéd
-- személyi tulajdonokat bizonytalan határideig kölcsönvevő
-- széntabletta
-- tesó
-- testvér
-- tesvír
-- tücsök
-- vádlott
-- vályogvető
-- vándorpatkány
-- varjú
-- vérfertőző európai néger
-- viking

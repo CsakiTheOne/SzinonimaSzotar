@@ -6,7 +6,7 @@ Egy különleges szinonima szótár, ahol egy dolgot akár 100 módon is mondhat
 
 ## Statisztikák
 
-213 szó összesen (gyakori kérdésekről származókat még nem számolva)
+281 szó összesen
 
 ## Közreműködés
 
