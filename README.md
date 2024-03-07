@@ -2,10 +2,11 @@
 
 Egy különleges szinonima szótár, ahol egy dolgot akár 100 módon is mondhatunk.
 
-## Tartalomjegyzék
-
 - [C betűs szó](./words/c.md)
-- [Hálózat tanárunk angol nyelvtudása](./words/rosta-english.md)
+
+## Statisztikák
+
+210 szó összesen
 
 ## Közreműködés
 
