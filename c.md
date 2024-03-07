@@ -210,3 +210,5 @@
 - üstház volt a járókája
 - üszök
 - ősmigráns
+- kutya fejű
+- csitkány (motkány)
