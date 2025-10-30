@@ -5,7 +5,6 @@
 - akit a mozdony füstje megcsapott
 - anyaméhben barnult
 - apacsok
-- árnyékember
 - asszonyverő
 - bagarol
 - bakelit
@@ -13,8 +12,8 @@
 - bal kézre gyúró
 - balsors
 - bantu
-- barát entitás
 - barbár
+- barát entitás
 - becsületes aljanép
 - beduin
 - bennszülött
@@ -24,79 +23,78 @@
 - bodzaszedő
 - bokorugró
 - bokszos
-- börtöncentrikus állampolgár
 - boxos
 - brazil
 - brazil gépsor
 - brikettfejű
 - britykó
 - buckalakó
-- büdösbőrű
 - buncsi
 - bundzsi
 - butaszappan
+- börtöncentrikus állampolgár
+- büdösbőrű
 - c
-- c-típusú állampolgár
 - c-type
+- c-típusú állampolgár
 - c-vitamin
 - cappuccino
-- cékla
 - cellux
 - celofán
 - cement
 - cerbona
-- cián
-- cibány
 - cibbank
-- cibbány
 - cibbon
 - cibbony
+- cibbány
 - cibeti
+- cibány
 - cicero
 - cickány
 - cig
 - cigarelló
 - cigi
 - cigling
-- cigó
 - cigszkozat
 - cigus
+- cigó
 - cikória
 - cimbalom
 - cindián
 - cintányér
 - cipi
 - cirkónium (zr a periódusos rendszerben)
-- citráng
 - citrom
+- citráng
+- cián
 - cornetto
 - családi okok miatt mosdatlan
 - családi vállalkozásban garázdálkodó
 - csipa
-- csitány
 - csitkány (motkány)
+- csitány
 - csoki
 - csokisüti
-- dádé
+- cékla
 - dakesz
 - dakota
 - dark úriember
 - digó
 - dingi
-- dögevő
 - drapp
 - durandai
-- dzsámbá
 - dzsibuti
 - dzsigoló
-- dzsipó
 - dzsipszi
+- dzsipó
 - dzsungelharcos
 - dzsungelkaratés
+- dzsámbá
+- dádé
+- dögevő
 - energiahordozó
 - entitás
 - EPK (erősen pigmentált kisebbség)
-- ércmanó
 - erősen pigmentált
 - etnikum
 - familiárisan hiperpigmentált
@@ -105,8 +103,8 @@
 - feketelábú
 - feketeretek
 - feketerigó
-- fémérzékeny
 - fokozottan pigmentált polgártárs
+- fémérzékeny
 - füsti fecske
 - gall kakas
 - gangeszi székely
@@ -116,44 +114,34 @@
 - gibbon
 - giepetto
 - gmerci
-- győzike
 - gypsy
+- győzike
 - halmozottan hátrányos kisállatetnyésztő
-- hátrányos helyzetű
 - hegyiolasz
 - hegylakó
-- hiéna
 - hiperpigmentált
+- hiéna
 - hobbin*ger
 - homo herbalensis
 - hungarobrazil
+- hátrányos helyzetű
 - illatosék
 - importindián
 - importnéger
 - indiai turista
 - indiai variáns
-- indián
 - indio-európai
+- indián
 - indoeuropid
 - indomagyar
 - indoszékely
 - integrált
 - jafar
-- kábelbarát
 - kafferbivaly
 - kakaócsempész
 - kakaós képű
 - kannibál
-- kányabőrű
-- kárpáti brazil
-- kátrány alapanyag
-- kátrány golyó
-- kátrányos helyzetű
-- kávéfeka
-- kék vérű
 - keselyű
-- kétes egzisztenciájú állampolgár
-- kétszer sült
 - kisebbségi
 - kobold
 - kockamedúza
@@ -169,14 +157,23 @@
 - korom kapitány
 - korvald
 - koszlidérc
-- küszöbmajom
 - kutya fejű
-- láma
-- légy
+- kábelbarát
+- kányabőrű
+- kárpáti brazil
+- kátrány alapanyag
+- kátrány golyó
+- kátrányos helyzetű
+- kávéfeka
+- kék vérű
+- kétes egzisztenciájú állampolgár
+- kétszer sült
+- küszöbmajom
 - loplandi
 - los aluljárosz banditái
+- láma
+- légy
 - macskura
-- mágnes szemű fiúk
 - magneto
 - magnum
 - magyarország rejtett erőforrásai
@@ -188,6 +185,7 @@
 - mozdonyszőke
 - mozgó céltábla
 - muzsikus
+- mágnes szemű fiúk
 - napbarnított felebarát
 - navajonkik
 - negro
@@ -202,10 +200,7 @@
 - nyeles dózer kezelő
 - nyóckeres
 - oláh
-- önálló kultúrával nem rendelkező társadalmilag elnyomott etnoszociális réteg
 - ork
-- ősmigráns
-- pákó
 - penge
 - perui
 - pigmenttúltengéses minoritás
@@ -221,63 +216,68 @@
 - putri
 - putripredátor
 - putriszökevény
+- pákó
 - rakló
 - recycling matador
 - rejtett erőforrás
 - retek
-- réti n*gger
-- rézbőrű
 - rezesbanda
-- rézpajzsos cigimli
 - rikárdó
 - roma
-- római
-- román
 - romeo
+- román
 - roméró
 - rozsdásrákok
 - rudi
 - rumaroma
 - rumungró
-- sárgalábú
-- sárvérű
+- réti n*gger
+- rézbőrű
+- rézpajzsos cigimli
+- római
 - schwarzkopf
 - snikers
-- sötét
 - spanyol
-- sült réce
 - suvickos
 - svéd
 - személyi tulajdonokat bizonytalan határideig kölcsönvevő
-- széntabletta
-- színesbőrű
 - szinkronizált olasz
 - szurokember
+- széntabletta
+- színesbőrű
+- sárgalábú
+- sárvérű
+- sötét
+- sült réce
 - tasmán ördög
 - teknővájó
 - teljes-kiőrlésű
-- tesó
 - testvér
+- tesó
 - tezsvír
-- tücsök
 - type-c
 - tyson
-- új magyar
-- üstház volt a járókája
-- üszök
+- tücsök
 - vadkacsa
-- vádlott
 - vadmagyar
 - vakvarjú
-- vályogvető
-- vándorpatkány
 - varjú
 - varjú fióka
 - varjú hámozó
 - vasangyal
 - vasbetondísz
-- vérfertőző európai néger
 - viking
-- vödörfonó
 - vonós
+- vádlott
+- vályogvető
+- vándorpatkány
+- vérfertőző európai néger
+- vödörfonó
 - zig
+- árnyékember
+- ércmanó
+- önálló kultúrával nem rendelkező társadalmilag elnyomott etnoszociális réteg
+- új magyar
+- üstház volt a járókája
+- üszök
+- ősmigráns
